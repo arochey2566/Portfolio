@@ -10,4 +10,4 @@ This is a simple portfolio using the HTML,CSS,Bootstrap and I will be using this
 No need to install any software just click on the link
 
 # How To Use:
-Use this template to biuld your own portfolio
+Use this template to biuld your own portfolio.
